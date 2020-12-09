@@ -4,7 +4,7 @@ session_start();
  <!DOCTYPE html>
 <html lang="en">
 
-    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <!-- Global site tag (gtag.js) - Google Analytics 
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-180702316-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -12,7 +12,7 @@ session_start();
   gtag('js', new Date());
 
   gtag('config', 'UA-180702316-1');
-</script>
+</script> -->
 <head>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 
